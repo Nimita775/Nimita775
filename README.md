@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nimita Gurjar
-- 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning programming
+- 👀 I’m interested in machine learning 
+- 🌱 I’m currently working on machine learning
 
 <!---
 Nimita775/Nimita775 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
