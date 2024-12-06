@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there 👋, my name is Nimita Gurjar
+
+## About me
+
+I'm from the India, currently in the Indian Standard Time Zone 🌎. I'm a huge fan of Machine Learning, computer vision, open-source, research and algorithms 💻. When I'm not building dreams, I can be found reading books 📕, meditating 🧘‍♀️, writing📝, listening to music 🎼 and spending time in nature ❤️.
 
 <!--
 **Nimita775/Nimita775** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
