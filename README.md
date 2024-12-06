@@ -4,7 +4,7 @@
 
 I'm from the India, currently in the Indian Standard Time Zone 🌎. I'm a huge fan of Machine Learning, computer vision, open-source, research and algorithms 💻. When I'm not building dreams, I can be found reading books 📕, meditating 🧘‍♀️, writing📝, listening to music 🎼 and spending time in nature ❤️.
 
-##🌱 I’m currently learning
+## 🌱 I’m currently learning
 
 [![image](https://github.com/user-attachments/assets/a9263a93-7a86-476e-a8c9-4449dbb852e3)
 ](https://www.duolingo.com/profile/gurjar_nimita)
