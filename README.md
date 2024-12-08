@@ -10,7 +10,8 @@ I'm from the India, currently in the Indian Standard Time Zone 🌎. I'm a huge 
 ](https://www.duolingo.com/profile/gurjar_nimita)
 
 ## 📫 How to reach me
-[m](https://mail.google.com/gurjarnimita@gmail.com)
+[![image](https://github.com/user-attachments/assets/eebcbc82-09d9-40d9-af33-e3047e0e0184)
+](https://mail.google.com/gurjarnimita@gmail.com)
 
 <!--
 **Nimita775/Nimita775** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
