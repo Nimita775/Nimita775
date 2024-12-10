@@ -1,5 +1,6 @@
 ## Hi there 👋, my name is Nimita Gurjar
-
+[![image](https://github.com/user-attachments/assets/6de4d73b-ab91-4633-91e0-bff6a9eb88aa)
+](https://medium.com/@gurjarnimita)
 ## About me
 
 I'm from the India, currently in the Indian Standard Time Zone 🌎. I'm a huge fan of Machine Learning, computer vision, open-source, research and algorithms 💻. When I'm not building dreams, I can be found reading books 📕, meditating 🧘‍♀️, writing📝, listening to music 🎼 and spending time in nature ❤️.
